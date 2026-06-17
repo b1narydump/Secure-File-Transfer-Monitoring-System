@@ -165,13 +165,3 @@ FILE CREATED | Path: /path/to/monitored/directory/secret/important.txt | Hash: c
 | `ModuleNotFoundError: watchdog` | Reinstall with `pip install watchdog`. |
 | Too much log noise | Increase `EVENT_DELAY` for high-volume operations. |
 | Unexpected behavior | Check the log file for errors or warnings. |
-
----
-
-## License
-
-This project is released under the MIT License. See the [`LICENSE`](LICENSE) file for details.
-
----
-
-Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
